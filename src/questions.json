@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the capital of Egypt?",
+      "answers": [
+        { "text": "Cairo", "correct": true },
+        { "text": "Alexandria", "correct": false },
+        { "text": "Mansoura", "correct": false },
+        { "text": "Sohag", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest planet in the solar system?",
+      "answers": [
+        { "text": "Earth", "correct": false },
+        { "text": "Mars", "correct": false },
+        { "text": "Saturn", "correct": false },
+        { "text": "Jupiter", "correct": true }
+      ]
+    },
+    {
+      "question": "Who invented the telephone?",
+      "answers": [
+        { "text": "Alexander Graham Bell", "correct": true },
+        { "text": "Thomas Edison", "correct": false },
+        { "text": "Nikola Tesla", "correct": false },
+        { "text": "Albert Einstein", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answers": [
+        { "text": "H2O", "correct": true },
+        { "text": "CO2", "correct": false },
+        { "text": "O2", "correct": false },
+        { "text": "N2", "correct": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": [
+        { "text": "Mars", "correct": true },
+        { "text": "Venus", "correct": false },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Saturn", "correct": false }
+      ]
+    },
+    {
+      "question": "In which country is the Great Barrier Reef located?",
+      "answers": [
+        { "text": "Australia", "correct": true },
+        { "text": "United States", "correct": false },
+        { "text": "Canada", "correct": false },
+        { "text": "Brazil", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": [
+        { "text": "Pacific Ocean", "correct": true },
+        { "text": "Atlantic Ocean", "correct": false },
+        { "text": "Indian Ocean", "correct": false },
+        { "text": "Arctic Ocean", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "answers": [
+        { "text": "Vatican City", "correct": true },
+        { "text": "Monaco", "correct": false },
+        { "text": "San Marino", "correct": false },
+        { "text": "Liechtenstein", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": [
+        { "text": "Diamond", "correct": true },
+        { "text": "Gold", "correct": false },
+        { "text": "Iron", "correct": false },
+        { "text": "Platinum", "correct": false }
+      ]
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "answers": [
+        { "text": "Leonardo da Vinci", "correct": true },
+        { "text": "Vincent van Gogh", "correct": false },
+        { "text": "Pablo Picasso", "correct": false },
+        { "text": "Claude Monet", "correct": false }
+      ]
+    }
+  ]
+  
